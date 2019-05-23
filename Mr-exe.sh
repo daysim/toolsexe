@@ -25,7 +25,7 @@ figlet -f slant " Mr.exe "|lolcat
 echo Segala tools tambahan untuk menjalankan tools sudah langsung di install langsung.
 echo Tekan No 1 Untuk menginstall Toolsnya :)
 echo Tekan No 2 Untuk Keluar
-echo $me"┌==="$bi"["$i"By Mr.exe"$bi"]"$me"======"$bi"["$i""Langsung Tekan 1""$bi"]"
+echo $me"┌==="$bi"["$i"By Mr exe"$bi"]"$me"======"$bi"["$i""Langsung Tekan 1""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 

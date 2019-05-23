@@ -22,8 +22,8 @@ echo $i" |"$pu" Contack WhatsApp :"$ku" 082287410667"$i"             |"
 echo $i" |"$pu" Contack Gmail :"$ku"  proskilltkj@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo Segala tools tambahan untuk menjalankan tools sudah langsung di install langsung.
-echo Tekan No 1 Untuk menginstall Toolsnya :)
-echo Tekan No 2 Untuk Keluar
+echo Tekan No 1 Untuk menginstall Toolsnya.
+echo Tekan No 2 Untuk Keluar.
 echo $me"┌==="$bi"["$i"By Mr exe"$bi"]"$me"======"$bi"["$i""Langsung Tekan 1""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
